@@ -1,6 +1,6 @@
 {
   "name": "drupal/radix_overrides",
   "description": "Drupal Bootstrap radix based theme",
-  "type": "drupal-shared-theme",
+  "type": "drupal-theme",
   "minimum-stability": "stable"
 }
