@@ -1,9 +1,6 @@
 {
-  "name": "blobit/radix_overrides",
+  "name": "drupal/radix_overrides",
   "description": "Drupal Bootstrap radix based theme",
   "type": "drupal-shared-theme",
-  "minimum-stability": "stable",
-  "require": {
-    "composer/installers": "^2.0"
-  }
+  "minimum-stability": "stable"
 }
