@@ -2,5 +2,5 @@
   "name": "blobit/radix_overrides",
   "description": "Drupal Bootstrap radix based theme",
   "type": "drupal-shared-theme",
-  "minimum-stability": "stable",
+  "minimum-stability": "stable"
 }
